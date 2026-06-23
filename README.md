@@ -89,6 +89,35 @@ ESN_GRANDE;92;Capgemini France;Issy-les-Moulineaux;ESN;https://www.capgemini.com
 - **`secteur`** sert uniquement à regrouper les résultats (n'importe quelle valeur
   fonctionne ; les libellés connus sont juste plus jolis dans le récap).
 
+### 🤖 Pas envie de remplir la liste à la main ? Demande à une IA
+
+Tu peux faire générer ta liste de cibles par une IA (ChatGPT, Claude, Gemini…).
+Copie-colle ce **prompt**, remplace les `[…]` par ta situation, et colle la
+réponse dans un fichier `cibles.csv` :
+
+```text
+Génère-moi un fichier CSV de structures qui recrutent, au format EXACT suivant
+(séparateur point-virgule, première ligne = en-têtes, encodage UTF-8) :
+
+secteur;departement;nom;ville;categorie;site_web
+
+Règles :
+- Une ligne par structure réelle et existante.
+- "site_web" = l'URL de la page recrutement/carrières officielle si tu la connais,
+  sinon le site officiel (https://...). N'invente pas d'URL.
+- "secteur" = une étiquette courte en MAJUSCULES_AVEC_UNDERSCORE pour regrouper
+  (ex. SANTE_PUBLIC, ESN, CYBER, BANQUE...).
+- "departement" = code à 2 chiffres (ex. 75), vide si tu ne sais pas.
+
+Je cherche : [type de poste, ex. stage cybersécurité]
+Zone géographique : [ex. Lyon et sa métropole]
+Secteurs visés : [ex. ESN, banques, éditeurs de logiciels]
+Donne-moi environ [50] structures. Réponds UNIQUEMENT avec le CSV, rien d'autre.
+```
+
+> Vérifie toujours les URLs générées par l'IA : elle peut se tromper de site.
+> Les lignes au site invalide seront juste marquées `inaccessible` dans la sortie.
+
 ### Secteurs de l'exemple fourni (Île-de-France, 234 structures)
 
 | Secteur | Nb | Secteur | Nb |
