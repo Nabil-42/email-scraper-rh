@@ -1,0 +1,5 @@
+aiohttp>=3.9
+beautifulsoup4>=4.12
+lxml>=5.0
+requests>=2.31
+dnspython>=2.4   # optionnel : améliore la résolution MX dans email_finder.py

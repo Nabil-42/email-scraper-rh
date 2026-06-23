@@ -1,0 +1,235 @@
+﻿secteur;departement;nom;ville;categorie;site_web
+ADMINISTRATION;75;ARS Ile-de-France;Paris;Agence d'Etat;https://www.iledefrance.ars.sante.fr
+ADMINISTRATION;75;Conseil Regional Ile-de-France;Paris;Collectivite;https://www.iledefrance.fr/offres-de-stages-et-demplois
+ADMINISTRATION;75;DINUM (Direction Interministerielle du Numerique);Paris;Ministere;https://www.numerique.gouv.fr/rejoindre-la-dinum/
+ADMINISTRATION;75;INSEE Direction Regionale IDF;Paris;Agence d'Etat;https://www.insee.fr/fr/information/2384852
+ADMINISTRATION;75;Mairie de Paris — DSI;Paris;Collectivite;https://www.paris.fr/pages/travailler-a-la-ville-de-paris-6174
+ADMINISTRATION;75;Ministere de l'Economie (Bercy);Paris;Ministere;https://www.economie.gouv.fr/recrutement
+ADMINISTRATION;75;Ministere de l'Interieur — DSI;Paris;Ministere;https://www.interieur.gouv.fr/Le-ministere/Emplois-et-concours
+ADMINISTRATION;75;Ministere de la Sante — DSI;Paris;Ministere;https://solidarites-sante.gouv.fr
+ADMINISTRATION;75;Prefecture d'Ile-de-France;Paris;Prefecture;https://www.prefectures-regions.gouv.fr/ile-de-france
+ADMINISTRATION;91;Departement de l'Essonne (CD91);Evry;Collectivite;https://www.essonne.fr/le-departement/le-conseil-departemental/emploi-recrutement
+ADMINISTRATION;91;Grand Paris Sud (agglo);Evry;Intercommunalite;https://www.grandparissud.fr
+ADMINISTRATION;91;Mairie d'Evry-Courcouronnes;Evry;Collectivite;https://www.evry-courcouronnes.fr
+ADMINISTRATION;91;Prefecture de l'Essonne;Evry;Prefecture;https://www.essonne.gouv.fr
+ADMINISTRATION;94;Departement du Val-de-Marne (CD94);Creteil;Collectivite;https://www.valdemarne.fr/le-conseil-departemental/recrutement
+ADMINISTRATION;94;Mairie de Creteil;Creteil;Collectivite;https://www.creteil.fr
+ADMINISTRATION;94;Prefecture du Val-de-Marne;Creteil;Prefecture;https://www.val-de-marne.gouv.fr
+CLOUD_INFRA;75;AWS France (Amazon);Paris;Cloud;https://www.amazon.jobs/fr/
+CLOUD_INFRA;75;Google France;Paris;Cloud;https://careers.google.com/locations/paris/
+CLOUD_INFRA;75;Nutanix France;Paris;Cloud;https://www.nutanix.com/company/careers
+CLOUD_INFRA;75;OVHcloud;Paris;Cloud;https://www.ovhcloud.com/fr/company/jobs/
+CLOUD_INFRA;75;SAP France;Paris;Editeur;https://jobs.sap.com/
+CLOUD_INFRA;75;Salesforce France;Paris;SaaS;https://careers.salesforce.com/
+CLOUD_INFRA;75;Scaleway;Paris;Cloud;https://www.scaleway.com/fr/carrieres/
+CLOUD_INFRA;75;ServiceNow France;Paris;SaaS;https://careers.servicenow.com/
+CLOUD_INFRA;78;NetApp France;Velizy-Villacoublay;Stockage;https://careers.netapp.com/
+CLOUD_INFRA;91;HPE France;Les Ulis;Materiel/Cloud;https://careers.hpe.com/jobs/fr
+CLOUD_INFRA;92;Cisco France;Issy-les-Moulineaux;Reseau;https://www.cisco.com/c/fr_fr/about/careers.html
+CLOUD_INFRA;92;Dell Technologies France;La Defense;Materiel/Cloud;https://jobs.dell.com/
+CLOUD_INFRA;92;Microsoft France;Issy-les-Moulineaux;Editeur;https://careers.microsoft.com/v2/global/fr/home.html
+CYBER;75;ANSSI — recrutement;Paris;Cyber;https://www.ssi.gouv.fr/recrutement/
+CYBER;75;Advens France;Paris;Cyber;https://www.advens.fr/recrutement/
+CYBER;75;CrowdStrike France;Paris;Cyber;https://www.crowdstrike.com/careers/
+CYBER;75;Fortinet France;Sophia-Antipolis/Paris;Cyber;https://www.fortinet.com/corporate/careers
+CYBER;75;Orange Cyberdefense;Paris;Cyber;https://orangecyberdefense.com/fr/nous-rejoindre/
+CYBER;75;Palo Alto Networks France;Paris;Cyber;https://www.paloaltonetworks.fr/company/careers
+CYBER;75;Sekoia.io;Paris;Cyber;https://www.sekoia.io/fr/carrieres/
+CYBER;75;Synacktiv;Paris;Cyber;https://www.synacktiv.com/fr/recrutement.html
+CYBER;75;Tehtris;Paris;Cyber;https://tehtris.com/fr/carrieres/
+CYBER;75;Varonis France;Paris;Cyber;https://www.varonis.com/fr/careers
+CYBER;75;Zscaler France;Paris;Cyber;https://www.zscaler.com/careers
+CYBER;78;Airbus CyberSecurity;Elancourt;Cyber;https://www.airbus.com/fr/carrieres
+CYBER;92;Intrinsec;Bagneux;Cyber;https://www.intrinsec.com/recrutement/
+CYBER;92;Stormshield (Airbus CyberSecurity);Issy-les-Moulineaux;Cyber;https://www.stormshield.com/fr/nous-rejoindre/
+EDITEUR_SANTE;75;ANS — Agence du Numerique en Sante;Paris;Agence;https://esante.gouv.fr
+EDITEUR_SANTE;75;Enovacom (Orange);Marseille/Paris;Editeur;https://www.enovacom.fr
+EDITEUR_SANTE;75;Inato (essais cliniques);Paris;Startup;https://inato.com
+EDITEUR_SANTE;75;Lifen;Paris;Startup;https://www.lifen.fr
+EDITEUR_SANTE;75;Maincare Solutions;Paris;Editeur;https://www.maincare.com
+EDITEUR_SANTE;75;McKesson France;Paris;Editeur;https://www.mckesson.fr
+EDITEUR_SANTE;75;Meditech France;Paris;Editeur;https://www.meditech.com/fr/
+EDITEUR_SANTE;75;Sesan (GCS e-sante IDF);Paris;GCS;https://www.sesan.fr
+EDITEUR_SANTE;75;Softway Medical;Bordeaux/Paris;Editeur;https://www.softwaymedical.fr
+EDITEUR_SANTE;78;GE HealthCare France;Buc;Industriel;https://www.gehealthcare.com/fr-fr
+EDITEUR_SANTE;92;Dedalus France (DxCare / Medasys);Montrouge;Editeur;https://www.dedalus.com
+EDITEUR_SANTE;92;Doctolib;Levallois-Perret;Scale-up;https://www.doctolib.fr
+EDITEUR_SANTE;92;Philips France (imagerie medicale);Suresnes;Industriel;https://www.philips.fr
+EDITEUR_SANTE;92;Withings Health Solutions;Issy-les-Moulineaux;Scale-up;https://www.withings.com
+EDITEUR_SANTE;93;Siemens Healthineers France;Saint-Denis;Industriel;https://www.siemens-healthineers.com/fr
+ESN_GRANDE;75;Accenture France;Paris;ESN;https://www.accenture.com/fr-fr/careers
+ESN_GRANDE;75;CGI France;Paris;ESN;https://www.cgi.com/france/fr-fr/carrieres
+ESN_GRANDE;75;HCL Technologies France;Paris;ESN;https://www.hcltech.com/careers
+ESN_GRANDE;75;Infosys France;Paris;ESN;https://www.infosys.com/careers/
+ESN_GRANDE;75;Kyndryl France;Paris;ESN;https://www.kyndryl.com/fr/fr/careers
+ESN_GRANDE;75;NTT DATA France;Paris;ESN;https://fr.nttdata.com/carrieres/
+ESN_GRANDE;75;Sopra Steria Group;Paris;ESN;https://www.soprasteria.com/fr/rejoindre-sopra-steria
+ESN_GRANDE;75;TCS France (Tata Consultancy Services);Paris;ESN;https://www.tcs.com/careers
+ESN_GRANDE;75;Wipro France;Paris;ESN;https://www.wipro.com/careers/
+ESN_GRANDE;78;Thales Services Numeriques;Velizy-Villacoublay;ESN;https://www.thalesgroup.com/fr/global/activites/numerique/emplois-et-carrieres
+ESN_GRANDE;92;Capgemini France;Issy-les-Moulineaux;ESN;https://www.capgemini.com/fr-fr/carrieres/
+ESN_GRANDE;92;IBM France;Bois-Colombes;ESN;https://www.ibm.com/fr-fr/employment/
+ESN_GRANDE;95;Atos SE;Bezons;ESN;https://atos.net/fr/carrieres
+ESN_GRANDE;95;Eviden (ex-Atos Digital);Bezons;ESN;https://eviden.com/fr/carrieres/
+ESN_MOYENNE;75;Amicio;Paris;ESN;https://www.amicio.com
+ESN_MOYENNE;75;Avanade France;Paris;ESN;https://www.avanade.com/fr-fr/career
+ESN_MOYENNE;75;Axians France (VINCI Energies);Paris;ESN;https://www.axians.fr/carrieres/
+ESN_MOYENNE;75;Bechtle France;Paris;ESN;https://www.bechtle.com/fr-fr/carrieres
+ESN_MOYENNE;75;Davidson Consulting;Paris;ESN;https://www.davidson.fr/emploi/
+ESN_MOYENNE;75;Econocom France;Paris;ESN;https://www.econocom.com/fr/carrieres
+ESN_MOYENNE;75;Exakis-Nelite (Microsoft Partner);Paris;ESN;https://www.exakis-nelite.com/carrieres/
+ESN_MOYENNE;75;Hardis Group;Paris;ESN;https://www.hardis-group.com/carrieres/
+ESN_MOYENNE;75;Indra France;Paris;ESN;https://www.indracompany.com/fr/carrieres
+ESN_MOYENNE;75;Inetum (ex-GFI);Paris;ESN;https://www.inetum.com/fr/carrieres
+ESN_MOYENNE;75;Insight Direct France;Paris;ESN;https://www.insight.com/fr_FR/nous-rejoindre.html
+ESN_MOYENNE;75;Linkvalue;Paris;ESN;https://www.link-value.fr/recrutement/
+ESN_MOYENNE;75;Logicalis France;Paris;ESN;https://www.logicalis.com/fr-fr/carrieres/
+ESN_MOYENNE;75;Onepoint;Paris;Conseil IT;https://www.groupeonepoint.com/fr/carrieres/
+ESN_MOYENNE;75;Publicis Sapient;Paris;Conseil IT;https://www.publicissapient.com/careers
+ESN_MOYENNE;75;Sfeir;Paris;ESN;https://www.sfeir.com/fr/carrieres/
+ESN_MOYENNE;75;Sia Partners;Paris;Conseil IT;https://www.sia-partners.com/fr/carrieres
+ESN_MOYENNE;75;Smile Open Source;Paris;ESN;https://www.smile.eu/fr/smile-vous-recrute
+ESN_MOYENNE;75;Sungard Availability Services;Paris;ESN;https://www.sungardas.com/fr-fr/carrieres/
+ESN_MOYENNE;75;Talan France;Paris;Conseil IT;https://www.talan.com/fr/recrutement
+ESN_MOYENNE;75;Wavestone;Paris;Conseil IT;https://www.wavestone.com/fr/rejoindre-wavestone/
+ESN_MOYENNE;75;Zenika;Paris;ESN;https://www.zenika.com/recrutement
+ESN_MOYENNE;91;Arrow Electronics France;Les Ulis;Distributeur IT;https://www.arrow.com/fr-fr/careers
+ESN_MOYENNE;92;Alten France;Boulogne-Billancourt;ESN;https://www.alten.fr/emploi-stage-alternance/
+ESN_MOYENNE;92;Aubay;Levallois-Perret;ESN;https://www.aubay.com/emploi
+ESN_MOYENNE;92;Computacenter France;Nanterre;ESN;https://www.computacenter.com/fr/carrieres
+ESN_MOYENNE;92;Devoteam;Levallois-Perret;ESN;https://www.devoteam.com/fr/carrieres/
+ESN_MOYENNE;92;Exclusive Networks France;Boulogne-Billancourt;Distributeur IT;https://www.exclusive-networks.com/fr/carrieres/
+ESN_MOYENNE;92;Micropole;Neuilly-sur-Seine;Conseil IT;https://www.micropole.com/fr/carrieres/
+ESN_MOYENNE;92;SCC France;Nanterre;ESN;https://www.scc.com/fr/nous-rejoindre/
+ESN_MOYENNE;95;Spie ICS;Cergy;ESN;https://www.spieics.fr/carrieres/
+GRAND_GROUPE;75;BNP Paribas — DSI;Paris;Banque;https://careers.bnpparibas.com/fr
+GRAND_GROUPE;75;EDF — DSI;Paris;Energie;https://recrutement.edf.com
+GRAND_GROUPE;75;La Poste Groupe — DSI;Paris;Groupe;https://www.lapostegroupe.com/fr/carrieres
+GRAND_GROUPE;75;SFR;Paris;Telecom;https://www.sfr.com/recrutement/
+GRAND_GROUPE;75;Sanofi France;Paris;Pharma;https://www.sanofi.com/fr/carrieres
+GRAND_GROUPE;78;Bouygues Construction DSI;Guyancourt;BTP;https://www.bouygues-construction.com/carrieres/
+GRAND_GROUPE;78;Dassault Systemes;Velizy-Villacoublay;Editeur;https://www.3ds.com/fr/careers/
+GRAND_GROUPE;91;Carrefour Group — DSI;Massy;Retail;https://www.carrefour.com/fr/groupe/carrieres
+GRAND_GROUPE;91;Safran Digital Hub;Massy;Industrie;https://www.safran-group.com/fr/carrieres
+GRAND_GROUPE;92;AXA France;Nanterre;Assurance;https://careers.axa.com/fr
+GRAND_GROUPE;92;Bouygues Telecom;Issy-les-Moulineaux;Telecom;https://www.bouyguestelecom.fr/recrutement/
+GRAND_GROUPE;92;Credit Agricole SA;Montrouge;Banque;https://www.credit-agricole.com/recrutement
+GRAND_GROUPE;92;Engie France;La Defense;Energie;https://www.engie.com/carrieres
+GRAND_GROUPE;92;Ipsen Pharma;Boulogne-Billancourt;Pharma;https://www.ipsen.com/fr/carrieres/
+GRAND_GROUPE;92;Orange France — DSI;Issy-les-Moulineaux;Telecom;https://orange.jobs
+GRAND_GROUPE;92;Schneider Electric;Rueil-Malmaison;Industrie;https://www.se.com/fr/fr/about-us/careers/
+GRAND_GROUPE;92;Servier;Suresnes;Pharma;https://www.servier.fr/carrieres/
+GRAND_GROUPE;92;Societe Generale;La Defense;Banque;https://careers.societegenerale.com/fr/
+GRAND_GROUPE;92;Sodexo France;Issy-les-Moulineaux;Services;https://www.sodexo.com/fr/nos-offres/emploi.html
+GRAND_GROUPE;92;TotalEnergies SE;La Defense;Energie;https://totalenergies.com/careers
+GRAND_GROUPE;92;VINCI Energies;Rueil-Malmaison;BTP/Energie;https://www.vinci-energies.com/carrieres/
+LOGEMENT_SOCIAL;75;Action Logement Groupe;Paris;Organisme;https://www.actionlogement.fr/recrutement
+LOGEMENT_SOCIAL;75;Batigere IDF;Paris;SA HLM;https://www.batigere.fr
+LOGEMENT_SOCIAL;75;Efidis (Action Logement);Paris;SA HLM;https://www.efidis.fr
+LOGEMENT_SOCIAL;75;ICF Habitat La Sabliere;Paris;SA HLM;https://www.icf-lasabliere.fr
+LOGEMENT_SOCIAL;75;Immobiliere 3F;Paris;SA HLM;https://www.3f.fr/recrutement/
+LOGEMENT_SOCIAL;75;Logirep;Paris;SA HLM;https://www.logirep.fr
+LOGEMENT_SOCIAL;75;Paris Habitat OPH;Paris;OPH;https://www.parishabitat.fr
+LOGEMENT_SOCIAL;91;Domaxis;Evry;SA HLM;https://www.domaxis.fr/recrutement
+LOGEMENT_SOCIAL;91;OPIEVOY (Essonne);Lieusaint;OPH;https://www.opievoy.fr/nous-rejoindre
+LOGEMENT_SOCIAL;92;Emmaus Habitat;Clichy;SA HLM;https://www.emmaus-habitat.fr/nous-rejoindre
+LOGEMENT_SOCIAL;93;Osica;Saint-Ouen;SA HLM;https://www.osica.fr
+LOGEMENT_SOCIAL;93;Plaine Commune Habitat;Saint-Denis;OPH;https://www.plainecommunehabitat.fr
+LOGEMENT_SOCIAL;94;Val-de-Marne Habitat (OPH 94);Creteil;OPH;https://www.valdemarne-habitat.fr
+MEDIA_EDU;75;Bibliotheque Nationale de France (BnF);Paris;Culture;https://www.bnf.fr/fr/offres-demploi
+MEDIA_EDU;75;CNED;Paris;Education;https://www.cned.fr
+MEDIA_EDU;75;France Televisions — DSI;Paris;Media;https://www.francetelevisions.fr/groupe/carrieres
+MEDIA_EDU;75;Radio France — DSI;Paris;Media;https://www.radiofrance.fr/groupe/recrutement
+MEDIA_EDU;91;Universite Evry Val-d'Essonne (UEVE);Evry;Education;https://www.univ-evry.fr
+MEDIA_EDU;91;Universite Paris-Saclay — DSI;Gif-sur-Yvette;Education;https://www.universite-paris-saclay.fr/emploi-et-concours
+MEDIA_EDU;94;INA (Institut National Audiovisuel);Bry-sur-Marne;Media;https://www.ina.fr/groupe-ina/emploi
+MEDIA_EDU;94;Universite Paris-Est Creteil (UPEC);Creteil;Education;https://www.u-pec.fr
+ORGANISME_PUBLIC;75;AGIRC-ARRCO;Paris;Retraite;https://www.agirc-arrco.fr
+ORGANISME_PUBLIC;75;CARSAT Ile-de-France;Paris;CARSAT;https://www.lassuranceretraite.fr
+ORGANISME_PUBLIC;75;CNAF (Allocations Familiales national);Paris;Sec. Sociale;https://www.cnaf.fr
+ORGANISME_PUBLIC;75;CNAM (Caisse Nationale Assurance Maladie);Paris;Sec. Sociale;https://assurance-maladie.ameli.fr
+ORGANISME_PUBLIC;75;Caisse des Depots et Consignations (CDC);Paris;Para-public;https://www.caissedesdepots.fr/nous-rejoindre
+ORGANISME_PUBLIC;75;MGEN (mutuelle fonctionnaires);Paris;Mutuelle;https://www.mgen.fr
+ORGANISME_PUBLIC;75;MNH (Mutuelle Nationale Hospitaliers);Paris;Mutuelle;https://www.mnh.fr
+ORGANISME_PUBLIC;75;Malakoff Humanis;Paris;Assurance;https://www.malakoffhumanis.com/recrutement
+ORGANISME_PUBLIC;78;INRIA;Le Chesnay;Recherche;https://www.inria.fr/fr/emplois-stages
+ORGANISME_PUBLIC;91;CAF de l'Essonne;Evry;CAF;https://www.caf.fr
+ORGANISME_PUBLIC;91;CEA Saclay;Gif-sur-Yvette;Recherche;https://www.cea.fr/emploi
+ORGANISME_PUBLIC;91;CNRS — Delegation Ile-de-France;Gif-sur-Yvette;Recherche;https://www.cnrs.fr/fr/offres-demploi
+ORGANISME_PUBLIC;91;CPAM de l'Essonne;Evry;CPAM;https://www.ameli.fr/essonne
+ORGANISME_PUBLIC;93;France Travail (ex-Pole Emploi) IDF;Noisy-le-Grand;Para-public;https://www.francetravail.fr/espace-recruteur/
+ORGANISME_PUBLIC;93;MSA Ile-de-France;Bobigny;MSA;https://www.msa.fr
+ORGANISME_PUBLIC;93;URSSAF Ile-de-France;Montreuil;URSSAF;https://www.urssaf.fr
+SANTE_GROUPE;75;Clariane (ex-Korian);Paris;Groupe;https://www.clariane.com
+SANTE_GROUPE;75;Elsan — carrieres;Paris;Groupe;https://www.elsan.care
+SANTE_GROUPE;75;FEHAP;Paris;Federation;https://www.fehap.fr
+SANTE_GROUPE;75;FHF (Federation Hospitaliere de France);Paris;Federation;https://www.fhf.fr
+SANTE_GROUPE;75;Inicea;Paris;Groupe;https://www.inicea.fr
+SANTE_GROUPE;75;Vivalto Sante;Paris;Groupe;https://www.vivalto-sante.com
+SANTE_GROUPE;92;Orpea;Puteaux;Groupe;https://www.orpea.fr
+SANTE_PRIVE;75;Clinique Arago;Paris;Clinique;https://www.clinique-arago.fr
+SANTE_PRIVE;75;Clinique Blomet;Paris;Clinique;
+SANTE_PRIVE;75;Clinique Floréal;Paris;Clinique;
+SANTE_PRIVE;75;Clinique Jouvenet (Elsan);Paris;Clinique;https://www.clinique-jouvenet.fr
+SANTE_PRIVE;75;Clinique Saint-Jean-de-Dieu;Paris;Clinique;
+SANTE_PRIVE;75;Clinique de la Muette;Paris;Clinique;
+SANTE_PRIVE;75;Clinique du Sport;Paris;Clinique;
+SANTE_PRIVE;75;Fondation Ophtalmologique Rothschild;Paris;Prive;https://www.fo-rothschild.fr
+SANTE_PRIVE;75;Hopital Saint-Joseph;Paris;Prive;https://www.hpsj.fr
+SANTE_PRIVE;75;Hôpital Laennec - Ramsay;Paris;Clinique;
+SANTE_PRIVE;75;Hôpital Privé des Peupliers;Paris;Clinique;
+SANTE_PRIVE;75;Institut Mutualiste Montsouris (IMM);Paris;Prive;https://www.imm.fr
+SANTE_PRIVE;91;Clinique Fond'Roy;Ris-Orangis;Clinique;
+SANTE_PRIVE;91;Clinique de Bretonneau;Savigny-sur-Orge;Clinique;
+SANTE_PRIVE;91;Clinique de Longjumeau / Yvette;Longjumeau;Clinique;https://www.clinique-yvette.fr
+SANTE_PRIVE;91;Clinique des Charmilles;Arpajon;Clinique;https://www.clinique-charmilles.fr
+SANTE_PRIVE;91;Clinique du Mousseau;Evry;Clinique;https://www.clinique-du-mousseau.fr
+SANTE_PRIVE;91;Clinique les Fontaines;Melun;Clinique;
+SANTE_PRIVE;91;Hopital Prive Claude Galien (Elsan);Quincy-sous-Senart;Clinique;https://www.cloudegalien.fr
+SANTE_PRIVE;91;Hopital Prive Jacques Cartier (Ramsay);Massy;Clinique;https://www.hpcjc.com
+SANTE_PRIVE;91;Hopital Prive Les Magnolias;Ballainvilliers;SSR;https://www.les-magnolias.fr
+SANTE_PRIVE;92;Clinique Ambroise Pare (Ramsay);Neuilly-sur-Seine;Clinique;https://www.clinique-ambroise-pare.fr
+SANTE_PRIVE;92;Hopital Americain de Paris;Neuilly-sur-Seine;Prive;https://www.american-hospital.org
+SANTE_PRIVE;92;Hopital Foch;Suresnes;Prive;https://www.hopital-foch.com
+SANTE_PRIVE;92;Hopital Prive d'Antony (Ramsay);Antony;Clinique;https://www.clinique-antony.fr
+SANTE_PRIVE;94;Centre Médico-Chirurgical de la Porte de Pantin;Pantin;Clinique;
+SANTE_PRIVE;94;Clinique Esquirol Saint-Maur (Inicea);Saint-Maur-des-Fosses;CHS;https://www.clinique-esquirol.fr
+SANTE_PRIVE;94;Clinique de Bercy (Elsan);Charenton-le-Pont;Clinique;https://www.clinique-bercy.fr
+SANTE_PRIVE;94;Clinique de Choisy;Choisy-le-Roi;Clinique;
+SANTE_PRIVE;94;Clinique du Val de Marne;Alfortville;Clinique;
+SANTE_PRIVE;94;Hopital Prive Paul d'Egine (Ramsay);Champigny-sur-Marne;Clinique;https://www.hopital-prive-paul-degine.fr
+SANTE_PRIVE;94;Hopital Prive de la Seine (Ramsay);Choisy-le-Roi;Clinique;https://www.ramsaysante.fr
+SANTE_PRIVE;94;Hopital Saint-Camille;Bry-sur-Marne;Prive;https://www.hopital-saint-camille.fr
+SANTE_PRIVE;94;Hôpital Privé de la Seine;Choisy-le-Roi;Clinique;
+SANTE_PRIVE;94;Hôpital Privé du Vert Galant;Tremblay-en-France;Clinique;
+SANTE_PUBLIC;75;GHU Paris Psychiatrie & Neurosciences;Paris;CHS;https://www.ghu-paris.fr
+SANTE_PUBLIC;75;Institut Curie;Paris;CLCC;https://curie.fr
+SANTE_PUBLIC;78;CH de Versailles;Versailles;CH;https://www.ch-versailles.fr
+SANTE_PUBLIC;91;Centre Hospitalier Sud Essonne;Etampes;CH;https://www.ch-sudessonne.fr
+SANTE_PUBLIC;91;Centre Hospitalier Sud Francilien (CHSF);Corbeil-Essonnes;CH;https://www.chsf.fr
+SANTE_PUBLIC;91;Centre Hospitalier d'Arpajon;Arpajon;CH;https://www.ch-arpajon.fr
+SANTE_PUBLIC;91;EPS Barthes (psychiatrie);Athis-Mons;CHS;https://www.eps-barthes.fr
+SANTE_PUBLIC;91;Groupe Hospitalier Les Cheminots;Draveil;SSR;https://www.ghc91.fr
+SANTE_PUBLIC;91;Groupe Hospitalier Nord Essonne (GHNE);Longjumeau;CH;https://www.gh-nord-essonne.fr
+SANTE_PUBLIC;92;CHU de Bicetre (92 Hauts-de-Seine);Clamart;CH;https://www.hop-clamart.fr
+SANTE_PUBLIC;93;CH de Montreuil;Montreuil;CH;https://www.chm93.fr
+SANTE_PUBLIC;93;CH de Saint-Denis;Saint-Denis;CH;https://www.ch-stdenis.fr
+SANTE_PUBLIC;94;AP-HP Bicêtre;Le Kremlin-Bicêtre;CHU;https://www.aphp.fr
+SANTE_PUBLIC;94;AP-HP Henri Mondor;Creteil;CHU;https://recrutement.aphp.fr
+SANTE_PUBLIC;94;CH de Maisons-Alfort;Maisons-Alfort;CH;
+SANTE_PUBLIC;94;CHI Villeneuve-Saint-Georges (CHIV);Villeneuve-Saint-Georges;CH;https://www.chiv.fr
+SANTE_PUBLIC;94;CHI de Creteil (CHIC);Creteil;CH;https://www.chicreteil.fr
+SANTE_PUBLIC;94;EPSNF Fresnes;Fresnes;CHS;
+SANTE_PUBLIC;94;Hopitaux Paris Est Val de Marne (HPEVM);Saint-Maurice;CH;https://www.hpevm.fr
+SANTE_PUBLIC;94;Institut Gustave Roussy;Villejuif;CLCC;https://www.gustaveroussy.fr
+SANTE_PUBLIC;94;SMR Le Perreux;Le Perreux-sur-Marne;SSR;
+SANTE_PUBLIC;95;CH de Pontoise (CHIOV);Pontoise;CH;https://www.ch-pontoise.fr
+TRANSPORT;75;Ile-de-France Mobilites (IDFM);Paris;Transport;https://www.iledefrance-mobilites.fr
+TRANSPORT;75;Keolis France;Paris;Transport;https://www.keolis.com/fr/carrieres
+TRANSPORT;75;RATP — recrutement;Paris;Transport;https://recrutement.ratp.fr
+TRANSPORT;75;SNCF Connect & Tech;Paris;Transport;https://sncf-connect.com
+TRANSPORT;75;SNCF Reseau;Paris;Transport;https://www.sncf-reseau.com/fr/page/nous-rejoindre
+TRANSPORT;75;SNCF — recrutement;Paris;Transport;https://www.sncf.com/fr/groupe/recrutement
+TRANSPORT;92;Transdev IDF;Issy-les-Moulineaux;Transport;https://www.transdev.com/fr/carrieres/
+TRANSPORT;93;Air France — DSI;Roissy-en-France;Transport;https://careers.airfranceklm.com/fr/fr
+TRANSPORT;93;Groupe ADP (Aeroports de Paris);Tremblay-en-France;Transport;https://www.groupeadp.fr/carrieres/

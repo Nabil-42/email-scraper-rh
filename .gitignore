@@ -1,0 +1,21 @@
+# ─── Données collectées (RGPD : ne JAMAIS publier de mails scrapés) ───────────
+cibles.csv                 # ta liste perso de cibles (l'exemple cibles.example.csv est versionné)
+resultats_mails.csv
+emails_supplementaires.csv
+emails_deja_envoyes.txt
+mails_*.csv
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ─── Outils / IDE ─────────────────────────────────────────────────────────────
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
