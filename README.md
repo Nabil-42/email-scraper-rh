@@ -43,19 +43,29 @@ Le tout en **asynchrone** (`asyncio` + `aiohttp`) → ~200 sites scrapés en que
 
 ## 🚀 Démarrage rapide
 
+**Prérequis :** [Python 3.9+](https://www.python.org/downloads/) (vérifie avec `python --version`).
+
 ```bash
-# 1. Installer les dépendances
+# 1. Récupérer le projet
+git clone https://github.com/Nabil-42/email-scraper-rh.git
+cd email-scraper-rh
+
+# 2. (Recommandé) Créer un environnement virtuel
+python -m venv .venv
+source .venv/bin/activate             # Windows : .venv\Scripts\activate
+
+# 3. Installer les dépendances
 pip install -r requirements.txt
 
-# 2. Créer ta liste de cibles à partir de l'exemple
-cp cibles.example.csv cibles.csv      # (Windows : copy cibles.example.csv cibles.csv)
+# 4. Créer ta liste de cibles à partir de l'exemple
+cp cibles.example.csv cibles.csv      # Windows : copy cibles.example.csv cibles.csv
 #   → édite cibles.csv avec TES structures
 
-# 3. Lancer le scraping
+# 5. Lancer le scraping
 python scraper_mails_rh.py
 #   → génère resultats_mails.csv
 
-# 4. (Optionnel) Compléter les domaines sans mail
+# 6. (Optionnel) Compléter les domaines sans mail
 python email_finder.py
 #   → génère emails_supplementaires.csv
 ```
